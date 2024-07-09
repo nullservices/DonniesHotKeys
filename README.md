@@ -65,6 +65,8 @@ hotkeys = {
     'shift+9': {'key': '9', 'name': 'Sit/Stand', 'pcs': ['PC_A', 'PC_B']},
     'ctrl+1': {'key': '1', 'name': 'Multi-Example', 'pcs': ['PC_A', 'PC_B']}
 }
+
+
 Running the Scripts
 Ensure both the scripts and the game client are running with administrative privileges.
 Run the remote.py script on each remote PC.
