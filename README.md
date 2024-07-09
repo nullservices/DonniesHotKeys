@@ -1,6 +1,6 @@
 # Donnies HotKeys
 
-Donnies HotKeys is a Python-based tool that allows you to send key presses from a main PC to multiple remote PCs. It supports setting up custom hotkeys that can be directed to specific PCs, making it ideal for managing multiple game clients or applications simultaneously.
+Donnies HotKeys is a Python-based tool that allows you to send key presses from a main PC to multiple remote PCs. It supports setting up custom hotkeys that can be directed to specific PCs.
 
 ## Features
 
