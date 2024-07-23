@@ -1,0 +1,24 @@
+{
+    "hotkeys": {
+        "shift+1": {
+            "key": "2",
+            "name": "Pet Attack",
+            "pcs": [
+                "PC_A",
+                "PC_B"
+            ],
+            "row": 0,
+            "color": "#888888"
+        },
+        "shift+2": {
+            "key": "3",
+            "name": "Pet Back",
+            "pcs": [
+                "PC_A",
+                "PC_B"
+            ],
+            "row": 0,
+            "color": "#888888"
+        }
+    }
+}
